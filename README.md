@@ -6,4 +6,4 @@ Based on [Treehouse Android Tutorial](https://teamtreehouse.com/library/build-a-
 
 ## Preview
 
-<img src="../screenshots/funfacts.png" alt="Screenshot of Fun Facts" height=600>
+<img src="funfacts.png" alt="Screenshot of Fun Facts" height=600>
